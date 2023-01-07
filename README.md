@@ -2,7 +2,7 @@
 Redis cluster with single master and sentinel nodes
 
 
-## compose file
+## Deployment
 
 `docker-compose.yml` 
 
